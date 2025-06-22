@@ -1,3 +1,3 @@
 import useQueryState from "./hooks/useQueryState";
 
-export { useQueryState };
+export default useQueryState;

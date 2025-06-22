@@ -8,17 +8,17 @@
 
 #### Designed for use with React Router(useSearchParams)
 
-#### Written in modern JavaScript
+#### Written in modern JavaScript,TS Supports
 
 #### Installation
 
 #### First, make sure you have react-router-dom v6+ installed in your project:
 
-#### npm install react-router-dom
+`npm install react-router-dom`
 
 #### Then install this package:
 
-#### npm install use-query-state
+` npm install use-query-state`
 
 #### Usage
 
