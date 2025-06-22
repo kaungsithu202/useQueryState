@@ -1,0 +1,36 @@
+{
+  "name": "use-query-state",
+  "version": "1.0.0",
+  "description": "react router query state custom hook",
+  "main": "dist/index.js",
+  "scripts": {
+    "build:dev": "rollup -c --environment NODE_ENV:development",
+    "build:prod": "rollup -c --environment NODE_ENV:production"
+  },
+  "type": "module",
+  "keywords": [
+    "react",
+    "react-router",
+    "query",
+    "state",
+    "use-query-state"
+  ],
+  "author": "Kaung Si Thu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaungsithu202/useQueryState.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaungsithu202/useQueryState.git/issues"
+  },
+  "peerDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router": "^7.6.2"
+  },
+  "devDependencies": {
+    "@rollup/plugin-terser": "^0.4.4",
+    "rollup": "^4.44.0"
+  }
+}
