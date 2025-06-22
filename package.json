@@ -1,5 +1,5 @@
 {
-  "name": "use-query-state",
+  "name": "@karl202/use-query-state",
   "version": "1.0.0",
   "description": "react router query state custom hook",
   "main": "dist/index.js",
